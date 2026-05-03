@@ -268,4 +268,4 @@ Proceso de compra
 Los usuarios autenticados pueden finalizar su compra indicando una direccion de envio. El sistema procesa la orden dentro de una transaccion de base de datos para garantizar que todos los pasos (crear la orden, registrar los detalles y descontar el stock) se completen o no se haga ninguno. Si algo falla, el usuario recibe un mensaje claro explicando el problema.
 
 Panel de administracion
-Accessible solo para usuarios con rol de administrador. Desde el dashboard se ven las estadisticas generales de la tienda. En la seccion de productos se puede crear, editar y desactivar productos *incluyendo la carga de imagenes*. En la seccion de ordenes se puede cambiar el estado de cada pedido segun avance el proceso de entrega.# SUMATIVA_2
+Accessible solo para usuarios con rol de administrador. Desde el dashboard se ven las estadisticas generales de la tienda. En la seccion de productos se puede crear, editar y desactivar productos *incluyendo la carga de imagenes*. En la seccion de ordenes se puede cambiar el estado de cada pedido segun avance el proceso de entrega.
